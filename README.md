@@ -18,7 +18,7 @@ TubeFaceCrop is a tool for crawling videos related to keywords from YouTube and 
    ```
 
 ### Features
-- Crawls related videos from YouTube based on a list of user keywords in the name.xlsx file.
+- Crawls related videos from YouTube based on a list of user keywords in the [name.xlsx](name.xlsx) file.
 - Automatically detects and removes faces from videos, with adjustable detection frequency.
 - Performs central crop on videos, with adjustable crop size.
 - Segments videos into 5-second clips for saving.
