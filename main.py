@@ -6,7 +6,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 warnings.filterwarnings("ignore")
 
 from download import download_video
-from recognition import remove_faces
+from detect import remove_faces
 from slice_video import slice_video
 
 # Step 1: Crawl related videos from YouTube
